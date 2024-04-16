@@ -28,8 +28,8 @@ End the program.
 
 ## Program:
 ```py
-Developed By   : Bairav skandan Loha
-Register Number: 212221230010
+Developed By   : Jagan a
+Register Number: 212221230037
 ```
 ### 1. Smoothing Filters
 
